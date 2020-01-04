@@ -30,4 +30,4 @@ function threeSumClosest(nums, target) {
     return result;
 }
 
-console.log(threeSumClosest([3,4,1,1,2,54,1,], 66));
+console.log(threeSumClosest([3,4,1,1,2,54,1], 57));
